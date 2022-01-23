@@ -35,7 +35,8 @@ public class arithematicCalc {
 			result= num1/num2;
 			System.out.println("The division= "+result);
 		}
-			
+		else {
+			System.out.println("Please enter correct number");
+		}		
 	}
-
 }
